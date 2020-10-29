@@ -1,0 +1,13 @@
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\bin\Debug\netcoreapp3.1\MarathonLesson2.exe
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\bin\Debug\netcoreapp3.1\MarathonLesson2.deps.json
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\bin\Debug\netcoreapp3.1\MarathonLesson2.runtimeconfig.json
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\bin\Debug\netcoreapp3.1\MarathonLesson2.runtimeconfig.dev.json
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\bin\Debug\netcoreapp3.1\MarathonLesson2.dll
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\bin\Debug\netcoreapp3.1\MarathonLesson2.pdb
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\obj\Debug\netcoreapp3.1\MarathonLesson2.csprojAssemblyReference.cache
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\obj\Debug\netcoreapp3.1\MarathonLesson2.AssemblyInfoInputs.cache
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\obj\Debug\netcoreapp3.1\MarathonLesson2.AssemblyInfo.cs
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\obj\Debug\netcoreapp3.1\MarathonLesson2.csproj.CoreCompileInputs.cache
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\obj\Debug\netcoreapp3.1\MarathonLesson2.dll
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\obj\Debug\netcoreapp3.1\MarathonLesson2.pdb
+C:\Users\sname\Desktop\MarathonPractice\maraton\MarathonLesson2\MarathonLesson2\obj\Debug\netcoreapp3.1\MarathonLesson2.genruntimeconfig.cache
